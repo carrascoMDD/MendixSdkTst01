@@ -1,0 +1,11 @@
+Creating new project with name ACVappMendixSdkTst01-1525562818991 for user carrascoMendix@ModelDD.org...
+Project creation for user carrascoMendix@ModelDD.org underway with job id: bd175145-fac0-4359-8bb3-cbf69b5afc57...
+Project created successfully for user carrascoMendix@ModelDD.org with id c8d70c31-e4fa-436f-8eb5-c5d501c29aa2
+Creating new online working copy for project c8d70c31-e4fa-436f-8eb5-c5d501c29aa2 : ACVappMendixSdkTst01-1525562818991
+Successfully created new online working copy 5d5f8dd1-ebd3-4df7-bb0f-663c059294bc for project c8d70c31-e4fa-436f-8eb5-c5d501c29aa2 : ACVappMendixSdkTst01-1525562818991
+Successfully opened new online working copy 5d5f8dd1-ebd3-4df7-bb0f-663c059294bc for project c8d70c31-e4fa-436f-8eb5-c5d501c29aa2 : ACVappMendixSdkTst01-1525562818991
+Closing connection to Model API...
+Closed connection to Model API successfully.
+Committing changes in online working copy 5d5f8dd1-ebd3-4df7-bb0f-663c059294bc to team server project c8d70c31-e4fa-436f-8eb5-c5d501c29aa2 branch null base revision -1
+Successfully committed changes to team server: revision 3 on branch null
+Successfully committed revision: 3. Done.
