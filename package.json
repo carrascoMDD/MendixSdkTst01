@@ -1,0 +1,28 @@
+{
+  "name": "mendixsdktst01",
+  "version": "1.0.0",
+  "description": "Learning About the Mendix Platform SDK https://docs.mendix.com/apidocs-mxsdk/mxsdk/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrascoMDD/MendixSdkTst01.git"
+  },
+  "keywords": [
+    "mendix"
+  ],
+  "author": "carrascomdd <carrascomdd@gmail.com> (http://SpringNut.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrascoMDD/MendixSdkTst01/issues"
+  },
+  "homepage": "https://github.com/carrascoMDD/MendixSdkTst01#readme",
+  "dependencies": {
+    "@types/when": "^2.4.28",
+    "mendixmodelsdk": "~4.10.0",
+    "mendixplatformsdk": "~4.0.0",
+    "when": "^2.4.28"
+  }
+}
